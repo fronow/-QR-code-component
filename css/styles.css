@@ -48,7 +48,8 @@ box-shadow: 0 10px 40px hsl(220, 15%, 55%);
 
 .QRcode-img {
   border-radius: 35px;
-  
+  justify-content: center;
+  max-width: 100%;
   max-width: 100%;
   
 }
