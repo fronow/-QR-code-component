@@ -1,5 +1,5 @@
 body {
-  background-color: #BDCDD6;
+  background-color: hsl(212, 45%, 89%);
   align-items: center;
   display: flex;
   font-family: "Outfit", serif;
@@ -24,7 +24,7 @@ p {
   color: grey;
   font-size: 15px;
   width: 90%;
-  padding: 20px;
+  padding: 1.25rem;
   font-weight: 400;
   text-align: center;
 }
@@ -42,14 +42,13 @@ p {
 background-color: white;
 border-radius: 35px;
 width: 400px;
-padding: 15px
+padding: 1px
 box-shadow: 0 10px 40px hsl(220, 15%, 55%);
 }
 
 .QRcode-img {
   border-radius: 35px;
-  justify-content: center;
-  width: 370px;
-  height: 370px;
-  margin: 15px;
+  
+  max-width: 100%;
+  
 }
