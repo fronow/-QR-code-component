@@ -1,0 +1,55 @@
+body {
+  background-color: #BDCDD6;
+  align-items: center;
+  display: flex;
+  font-family: "Outfit", serif;
+  justify-content: center;
+  height: 100%;
+  min-height: 100vh;
+  overflow: hidden;
+  width: 100%;
+
+}
+
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 25px;
+  width: 90%;
+  margin: auto;
+  text-align: center;
+}
+
+p {
+  font-family: 'Montserrat', sans-serif;
+  color: grey;
+  font-size: 15px;
+  width: 90%;
+  padding: 20px;
+  font-weight: 400;
+  text-align: center;
+}
+
+.attribution {
+  font-family: 'Montserrat', sans-serif;
+  color: hsl(228, 45%, 44%);
+  text-decoration: none;
+  color: black;
+  font-size: 10px;
+  text-align: center;
+}
+
+.QR-Code {
+background-color: white;
+border-radius: 35px;
+width: 400px;
+height: 600px;
+box-shadow: 0 10px 40px hsl(220, 15%, 55%);
+}
+
+.QRcode-img {
+  border-radius: 35px;
+  justify-content: center;
+  width: 370px;
+  height: 370px;
+  margin: 15px;
+}
