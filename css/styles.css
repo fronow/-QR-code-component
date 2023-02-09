@@ -42,7 +42,7 @@ p {
 background-color: white;
 border-radius: 35px;
 width: 400px;
-height: 600px;
+padding: 15px
 box-shadow: 0 10px 40px hsl(220, 15%, 55%);
 }
 
