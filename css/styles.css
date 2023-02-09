@@ -22,7 +22,7 @@ h1 {
 p {
   font-family: 'Montserrat', sans-serif;
   color: grey;
-  font-size: 15px;
+  font-size: 1rem;
   width: 90%;
   padding: 1.25rem;
   font-weight: 400;
@@ -34,7 +34,7 @@ p {
   color: hsl(228, 45%, 44%);
   text-decoration: none;
   color: black;
-  font-size: 10px;
+  font-size: 0.625rem;
   text-align: center;
 }
 
